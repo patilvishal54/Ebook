@@ -1,0 +1,6 @@
+SID,ADMISSION_YEAR,ADMISSION_TERM,APPLIED,ADMITTED,ETHNIC_CODE,RACE_ETHNICITY,GENDER,FIRST_GEN_STATUS,STUDENT_TYPE,COLLEGE_CODE,COLLEGE,DEPARTMENT_CODE,DEPARTMENT
+II71ACMWZ,2011,Fall,Applied,,HISP,Hispanic,Male,Continuing Generation,FYS,SCI,Science,CHEM,Chemistry
+TCT4Y7GBK,2010,Fall,Applied,,HISP,Hispanic,Male,Unknown,FYS,BUS,Business,ACCT,Accounting
+V7UM0BUKW,2012,Fall,Applied,,,Unknown,Male,Continuing Generation,TRN,LIB,Liberal Arts,JOUR,Journalism
+OBEALLZ13,2012,Fall,Applied,,HISP,Hispanic,Male,Continuing Generation,TRN,LIB,Liberal Arts,PSY,Psychology
+HFUCQV9IY,2010,Fall,Applied,,HISP,Hispanic,Female,Continuing Generation,FYS,HEA,Health,FCS,Consumer Sciences
